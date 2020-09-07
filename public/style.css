@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width:600px;
+    height: 600px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    height: 60px;
+    background-color: #f8d71c;
+}
+
